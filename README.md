@@ -1,3 +1,5 @@
+You will be able to test and move the joints in any direction you want, using the buttons DIR1 and DIR2.
+
 # ar3_gui
 To run it:
 
