@@ -17,3 +17,5 @@ python viz.py urdf/ar3.urdf
 This project is based on this urdf parser:
 https://github.com/clemense/yourdfpy/
 
+Thanks to https://github.com/ongdexter/ar3_core for providing the urdf files.
+
