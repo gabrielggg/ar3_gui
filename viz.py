@@ -22,8 +22,8 @@ import time
 import logging
 import argparse
 
-from yourdfpy import __version__
-from yourdfpy import URDF
+#from urdf_ar3 import __version__
+from urdf_ar3 import URDF
 
 
 
