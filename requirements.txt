@@ -1,8 +1,8 @@
 glooey==0.1.2
 lxml==4.9.2
 numpy==1.21.2
-Pillow==8.4.0
 Pillow==9.5.0
 pyglet==1.5.27
+pyserial==3.5
 six==1.16.0
-trimesh==3.21.2
+trimesh==3.21.7
